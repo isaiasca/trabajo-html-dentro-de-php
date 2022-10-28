@@ -1,3 +1,6 @@
 <?php
-    echo "Hello Senati :)"
+    $nombre="holamundo";
+    print("<p>$nombre</p>")
+
+    
 ?>
